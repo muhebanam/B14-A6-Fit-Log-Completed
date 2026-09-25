@@ -38,11 +38,11 @@ export function Navbar() {
 
         <div className="flex items-center gap-2 text-[10px] font-black uppercase tracking-wider2 sm:text-xs">
           <Link href="/my-plan?tab=plan" className="focus-ring flex items-center gap-1.5 bg-acid px-2.5 py-2 text-black sm:px-3">
-            <span className="hidden xs:inline">Plan</span>
+            <span className="hidden sm:inline">Plan</span>
             <span>{hydrated ? plan.length : 0}</span>
           </Link>
           <Link href="/my-plan?tab=saved" className="focus-ring flex items-center gap-1.5 border border-zinc-600 px-2.5 py-[7px] text-white hover:border-acid sm:px-3">
-            <span className="hidden xs:inline">Saved</span>
+            <span className="hidden sm:inline">Saved</span>
             <span>{hydrated ? saved.length : 0}</span>
           </Link>
         </div>
