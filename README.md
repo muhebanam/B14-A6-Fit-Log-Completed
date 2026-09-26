@@ -2,6 +2,9 @@
 
 A responsive, dark-mode workout library and daily training planner built for **B14 Assignment 6**. The interface follows the supplied Figma/Penpot design system with a near-black canvas, charcoal panels, condensed uppercase typography, thin borders, and a neon-lime accent.
 
+- **Live URL:** [https://b14-a6-fit-log-completed-ten.vercel.app/](https://b14-a6-fit-log-completed-ten.vercel.app/)
+- **GitHub Repository:** [https://github.com/muhebanam/B14-A6-Fit-Log-Completed](https://github.com/muhebanam/B14-A6-Fit-Log-Completed)
+
 ## Live product flow
 
 - Browse twelve exercises from the FitLog API in a responsive library.

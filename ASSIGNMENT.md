@@ -163,5 +163,5 @@ Deploy your project on Vercel, Netlify, Cloudflare Pages, or anywhere else befor
 ## 📬 Submission
 Fill in both links before submitting:
 
-- Live Link:
-- GitHub Repository Link:
+- Live Link: https://b14-a6-fit-log-completed-ten.vercel.app/
+- GitHub Repository Link: https://github.com/muhebanam/B14-A6-Fit-Log-Completed
